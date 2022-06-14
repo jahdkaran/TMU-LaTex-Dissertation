@@ -1,7 +1,7 @@
 
 %%
-%%  This is file `IUST-Thesis.cls',
-%%  It is a modification  of Tabriz_thesis of Vahid Damanafshan,
+%%  This is file `TMU-Thesis.cls',
+%%  It is a modification  of Tabriz_thesis of Vahid Damanafshan and IUST_thesis,
 %%	by: Mahmood Amintoosi, m.amintoosi@gmail.com
 %%  http://profsite.sttu.ac.ir/mamintoosi
 %%	Ver 0.1, Jan 2012
